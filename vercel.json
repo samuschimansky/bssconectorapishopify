@@ -1,11 +1,3 @@
 {
-  "version": 2,
-  "functions": {
-    "api/catalogo.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
-  "routes": [
-    { "src": "/api/catalogo", "dest": "/api/catalogo.js" }
-  ]
+  "version": 2
 }
